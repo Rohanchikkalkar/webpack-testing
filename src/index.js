@@ -1,1 +1,1 @@
-alert("connected");
+console.log("wassup babes");
