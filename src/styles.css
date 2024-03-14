@@ -1,1 +1,19 @@
 /* Stylesheet */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: red;
+}
+.heading {
+  text-align: center;
+  margin-top: 5%;
+}
+.image {
+  width: 500px;
+  height: 500px;
+}
