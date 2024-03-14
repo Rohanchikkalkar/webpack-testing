@@ -1,4 +1,8 @@
 /* Stylesheet */
+body {
+  margin: 0px;
+  padding: 0px;
+}
 .container {
   display: flex;
   flex-direction: column;
@@ -16,4 +20,11 @@ h1 {
 .image {
   width: 500px;
   height: 500px;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  background-color: antiquewhite;
+  font-size: 20px;
 }
